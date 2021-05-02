@@ -1,2 +1,2 @@
 # WeatherApp-nodeJS
-![alt text](https://github.com/AkshayKattimani/Drum-Kit-App/blob/main/Screenshot%20(41).png)
+![alt text](https://github.com/AkshayKattimani/WeatherApp-nodeJS/blob/main/Screenshot%20(49).png)
